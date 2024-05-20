@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on anything, looking to learn
-- 📫 How to reach me : Fine me on my website bhonge.me
+- 📫 How to reach me : Find me on my website bhonge.netlify.app
 
 <!---
 Prat-The-Brat/Prat-The-Brat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
